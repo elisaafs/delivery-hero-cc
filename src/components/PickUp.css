@@ -10,7 +10,7 @@
 .PickUp-logo {
   position: absolute;
   top: 0;
-  left: 10%;
+  left: 6%;
   width: 80%;
   max-width: 230px;
 }
@@ -18,19 +18,19 @@
 .PickUp-pickup {
   position: absolute;
   bottom: -5%;
-  left: 10%;
+  left: 6%;
   width: 80%;
   max-width: 230px;
   font-weight: 900;
-  font-size: 30px;
+  font-size: 38px;
   color: white;
   background-color: #d94464;
-  padding: 15px 0 15px 0;
+  padding: 0.2em 0.6em;
 }
 
 .PickUp-name {
   top: 50%;
-  left: 10%;
+  left: 6%;
   color: rgb(31, 76, 93);
   font-size: 50px;
   position: absolute;
