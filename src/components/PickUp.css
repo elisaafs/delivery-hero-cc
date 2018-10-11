@@ -1,0 +1,41 @@
+.PickUp-background {
+  background-image: url("/images/Girl.png");
+  width: 100vw;
+  height: 90vh;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.PickUp-logo {
+  position: absolute;
+  top: 0;
+  left: 10%;
+  width: 80%;
+  max-width: 230px;
+}
+
+.PickUp-pickup {
+  position: absolute;
+  bottom: -5%;
+  left: 10%;
+  width: 80%;
+  max-width: 230px;
+  font-weight: 900;
+  font-size: 30px;
+  color: white;
+  background-color: #d94464;
+  padding: 15px 0 15px 0;
+}
+
+.PickUp-name {
+  top: 50%;
+  left: 10%;
+  color: rgb(31, 76, 93);
+  font-size: 50px;
+  position: absolute;
+}
+
+.Pickup-black {
+  font-weight: 900;
+}

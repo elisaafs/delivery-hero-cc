@@ -1,0 +1,79 @@
+.OrderPage-main {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+
+.OrderPage-background {
+  background-image: radial-gradient(
+    circle,
+    #cad6d9,
+    #c2d1d4,
+    #bbcbcf,
+    #b3c6cb,
+    #acc1c6
+  );
+  position: absolute;
+  width: 100%;
+  height: 70vh;
+}
+
+.OrderPage-content {
+  position: absolute;
+  width: 100%;
+  height: calc(70vh + 34px);
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.OrderPage-logo {
+  width: 80%;
+  max-width: 260px;
+}
+
+.OrderPage-burger {
+  width: 42%;
+  left: -19%;
+  bottom: calc(7% - 243px);
+  position: absolute;
+  -webkit-filter: drop-shadow(4px 7px 5px rgba(0, 0, 0, 0.3));
+  filter: drop-shadow(4px 6px 3px rgba(0, 0, 0, 0.3));
+}
+
+.OrderPage-iphone {
+  position: relative;
+  left: 613px;
+  top: 42%;
+  -webkit-filter: drop-shadow(4px 7px 5px rgba(0, 0, 0, 0.3));
+  filter: drop-shadow(4px 7px 5px rgba(0, 0, 0, 0.3));
+}
+
+.OrderPage-order {
+  text-decoration: none;
+  font-weight: 900;
+  font-size: 36px;
+  color: white;
+  background-color: #d94464;
+  padding-left: 1.3em;
+  padding-right: 1.3em;
+  height: 68px;
+  line-height: 68px;
+  position: relative;
+}
+
+.OrderPage-name {
+  color: rgb(31, 76, 93);
+  font-size: 50px;
+}
+
+.OrderPage-black {
+  font-weight: 900;
+}
+
+.OrderPage-wrapper {
+  position: relative;
+}
