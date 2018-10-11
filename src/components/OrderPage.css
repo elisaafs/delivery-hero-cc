@@ -48,8 +48,6 @@
   position: relative;
   left: 613px;
   top: 42%;
-  -webkit-filter: drop-shadow(4px 7px 5px rgba(0, 0, 0, 0.3));
-  filter: drop-shadow(4px 7px 5px rgba(0, 0, 0, 0.3));
 }
 
 .OrderPage-order {
