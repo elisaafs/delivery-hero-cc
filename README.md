@@ -1,4 +1,4 @@
-# Coding Challenge Delivery Hero
+# Pick Up vs Delivery
 
 ## Frontend
 
